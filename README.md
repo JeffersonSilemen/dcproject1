@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-   <a href="https://jeffersonsilemen.github.io/projectdc1/" targer="_blank">https://jeffersonsilemen.github.io/projectdc1/</a>
+   <a href="https://jeffersonsilemen.github.io/projectdc1/" target="_blank">https://jeffersonsilemen.github.io/projectdc1/</a>
 </div>
 <br>
 
