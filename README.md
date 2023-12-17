@@ -16,7 +16,7 @@
 <br>
 
 <div align="center">
-   <a href="https://jeffersonsilemen.github.io/projectdc1/" target="_blank">Link da landing page</a>
+   <a href="https://jeffersonsilemen.github.io/dcproject1/" target="_blank">Link da landing page</a>
 </div>
 <br>
 
